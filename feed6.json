@@ -1,0 +1,47 @@
+[
+  {
+    "id": "nAMzjMyB",
+    "title": "Ex",
+    "link": "https://hills.vetworld-laravel.test/products/nAMzjMyB",
+    "description": "Excepturi sit ea perferendis dolores quasi. Culpa est ut quam laboriosam quo non...",
+    "price": 30,
+    "image_link": "n/a",
+    "categories": [
+      "site-hills",
+      "Cat",
+      "Dog",
+      "Unde > Unde - Omnis",
+      "Dolore",
+      "Beatae > Beatae - Voluptas",
+      "Cumque",
+      "Labore > Labore - Explicabo",
+      "Dog > Dog - Food",
+      "Cat > Cat - Food"
+    ],
+    "inventory_quantity": 72,
+    "inventory_policy": 2,
+    "availability": "in_stock",
+    "tags": ["featured"],
+    "country": "AU"
+  },
+  {
+    "id": "BRM1OgzW",
+    "title": "Unde",
+    "link": "https://hills.vetworld-laravel.test/products/BRM1OgzW",
+    "description": "Consequatur sed dolores et blanditiis dolorem voluptate quasi...",
+    "price": 30,
+    "image_link": "n/a",
+    "categories": [
+      "site-hills",
+      "Dog > Dog - Treats",
+      "Cat",
+      "Dog",
+      "Dog > Dog - Food"
+    ],
+    "inventory_quantity": 52,
+    "inventory_policy": 2,
+    "availability": "in_stock",
+    "tags": ["featured"],
+    "country": "AU"
+  }
+]
