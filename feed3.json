@@ -1,0 +1,47 @@
+[
+    {
+        "id": "nAMzjMyB",
+        "title": "Ex",
+        "link": "https:\/\/hills.vetworld-laravel.test\/products\/nAMzjMyB",
+        "description": "Excepturi sit ea perferendis dolores quasi. Culpa est ut quam laboriosam quo non. Et debitis illo beatae. Esse eum mollitia provident et. Sapiente doloremque voluptatum quod nisi. Ut sapiente quibusdam non sit omnis ad. Similique nulla officiis similique. Non quo labore consequatur. Quis officia et blanditiis inventore aut ipsa.",
+        "price": "30.00",
+        "image_link": "n\/a",
+        "categories": [
+            "site-hills",
+            "Cat",
+            "Dog",
+            "Unde > Unde - Omnis",
+            "Dolore",
+            "Beatae > Beatae - Voluptas",
+            "Cumque",
+            "Labore > Labore - Explicabo",
+            "Dog > Dog - Food",
+            "Cat > Cat - Food"
+        ],
+        "inventory_quantity": 72,
+        "inventory_policy": 2,
+        "availability": "in stock",
+        "tags": [],
+        "country": "AU"
+    },
+    {
+        "id": "BRM1OgzW",
+        "title": "Unde",
+        "link": "https:\/\/hills.vetworld-laravel.test\/products\/BRM1OgzW",
+        "description": "Consequatur sed dolores et blanditiis dolorem voluptate quasi. Laboriosam suscipit ex ea. Doloremque itaque qui magnam dolores et sunt. Id totam laboriosam animi quae. Quod voluptatem sunt unde doloribus soluta est officiis. Necessitatibus exercitationem nihil possimus quo et neque. Consequuntur totam aut quam autem sequi molestiae iure nisi. Est quis impedit omnis ea molestias sint quia dolores. Nemo necessitatibus maxime quia placeat nisi. Pariatur consequatur dolorum id eum non. Architecto veniam ab optio similique. Numquam et dicta aut officiis amet.",
+        "price": "30.00",
+        "image_link": "n\/a",
+        "categories": [
+            "site-hills",
+            "Dog > Dog - Treats",
+            "Cat",
+            "Dog",
+            "Dog > Dog - Food"
+        ],
+        "inventory_quantity": 52,
+        "inventory_policy": 2,
+        "availability": "in stock",
+        "tags": [],
+        "country": "AU"
+    }
+]
