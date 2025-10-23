@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "type": "catalog-item",
+      "id": "sku001",
+      "attributes": {
+        "title": "Eco-Friendly Bamboo Toothbrush",
+        "description": "A sustainable toothbrush made from biodegradable bamboo with soft bristles.",
+        "url": "https://example.com/products/bamboo-toothbrush",
+        "image_full_url": "https://example.com/images/bamboo-toothbrush.jpg",
+        "price": 4.99,
+        "currency": "USD",
+        "inventory_quantity": 100,
+        "available": true
+      }
+    },
+    {
+      "type": "catalog-item",
+      "id": "sku002",
+      "attributes": {
+        "title": "Reusable Stainless Steel Water Bottle",
+        "description": "Keep drinks cold or hot for hours with this insulated, leak-proof bottle.",
+        "url": "https://example.com/products/stainless-water-bottle",
+        "image_full_url": "https://example.com/images/stainless-water-bottle.jpg",
+        "price": 19.99,
+        "currency": "USD",
+        "inventory_quantity": 50,
+        "available": true
+      }
+    }
+  ]
+}
